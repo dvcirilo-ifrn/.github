@@ -1,4 +1,4 @@
-## Materiais de aula do prof. Diego Cirilo (@dvcirilo)
+## Materiais de aula do prof. Diego Cirilo ([@dvcirilo](https://github.com/dvcirilo))
 
 <!--
 
