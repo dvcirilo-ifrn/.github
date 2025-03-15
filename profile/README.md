@@ -4,4 +4,4 @@
 - Programação Orientada a Serviços ([pos](https://github.com/dvcirilo-ifrn/pos))
 - Programação de Sistemas para Internet ([psi](https://github.com/dvcirilo-ifrn/psi))
 - Instalação e Configuração de Servidores ([ics](https://github.com/dvcirilo-ifrn/ics))
-- Informática ([informatica](https://github.com/dvcirilo-ifrn/informatica)
+- Informática ([informatica](https://github.com/dvcirilo-ifrn/informatica))
